@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "P40",
+            "request": "launch",
+            "mainClass": "P40",
+            "projectName": "HomeworkCh5_612e166c",
+            "args": "test3.txt"
+        }
+    ]
+}
